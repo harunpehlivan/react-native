@@ -210,7 +210,7 @@
     "xcode": "^0.8.9",
     "xmldoc": "^0.4.0",
     "xpipe": "^1.0.5",
-    "yargs": "^6.4.0"
+    "yargs": "^16.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^7.1.1",
